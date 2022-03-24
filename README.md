@@ -13,6 +13,4 @@ Drag and drop the respective script into the main window of FIJI. Use 'RUN' in t
 
 # Script descriptions
 
-__Z projection + Scale__(Z projection + Scale.ijm) : Written to take an input folder of images of various dimensions (single, multichannle, 3D) and output single greyscale TIF image or a RGB TIF with a scalebar.  Dimensioanlty is reduced in the case of 3D images using a maximum Z prohjection. 
-
-[_Resave Brightfield:_](Z projection + Scale.ijm)
+[__Z projection + Scale__](Zprojection+Scale.ijm) : Written to take an input folder of images of various dimensions (single, multichannle, 3D) and output single greyscale TIF image or a RGB TIF with a scalebar.  Dimensioanlty is reduced in the case of 3D images using a maximum Z prohjection.
