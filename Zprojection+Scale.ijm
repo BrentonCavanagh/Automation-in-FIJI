@@ -125,7 +125,7 @@ function ProcessFile(dirIN, dirOUT){
 			run("Close All");
 		}
 		count++;
-		print("Saved "+count+" of "+num);
+		print("Saved "+count+" of "+list.length);
 	}
 	else{
 		print("--> Skipping "+ list[i] + ", file type incorrect.");
